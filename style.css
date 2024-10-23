@@ -84,6 +84,14 @@ h5{
   letter-spacing: 3px;
 }
 
+h6{
+      padding: 20px;
+  background-color: hsla(57, 96%, 9%, 65%);
+  color: antiquewhite;
+  border-radius: 10px;
+  letter-spacing: 3px;
+}
+
 p {
   font-size: 24px;
   letter-spacing: 0.6px;
