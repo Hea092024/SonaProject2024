@@ -19,7 +19,9 @@ body {
   font-family: "Agdasima", sans-serif;
 }
 
-
+.dropdown-form {
+  margin-right: 15%;
+}
 
 .dropdown {
   background-color: #4b4b4b;
