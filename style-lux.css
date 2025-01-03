@@ -79,3 +79,11 @@ h3 {
   border-radius: 10px;
   letter-spacing: 3px;
 }
+
+p {
+  font-size: 24px;
+  letter-spacing: 0.6px;
+  line-height: 25px;
+  margin-top: 20px;
+  letter-spacing: 1px;
+}
