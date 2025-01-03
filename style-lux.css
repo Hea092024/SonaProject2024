@@ -53,20 +53,20 @@ body {
 }
 
 #second {
-  background-image: url(./lux/lux2.jpg);
+  background-image: url(./lux/lux-2.jpg);
   background-position: center;
 }
 
 #third {
-  background-image: url(./lux/lux3.jpg);
+  background-image: url(./lux/lux-3.jpg);
 }
 
 #fourth {
-  background-image: url(./lux/lux4.jpg);
+  background-image: url(./lux/lux-4.jpg);
 }
 
 #fifth {
-  background-image: url(./lux/lux5.jpg);
+  background-image: url(./lux/lux-5.jpg);
 }
 
 h1 {
