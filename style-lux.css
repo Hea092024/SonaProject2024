@@ -51,3 +51,11 @@ body {
 #first {
   background-image: url(./assets/Sona1.jpg);
 }
+
+h1 {
+  padding: 20px;
+  background-color: hsla(57, 96%, 9%, 65%);
+  color: antiquewhite;
+  border-radius: 10px;
+  letter-spacing: 3px;
+}
