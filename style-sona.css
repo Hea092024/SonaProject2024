@@ -189,7 +189,7 @@ video {
   max-width: 100%;
 }
 
-/* Mobile View Adjustments */
+
 @media (max-width: 1024px) {
   body {
     font-size: 18px;

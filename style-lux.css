@@ -158,3 +158,33 @@ div {
 figure {
   width: 300px;
 }
+
+h1 a {
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+
+@keyframes sparkle {
+  0% {
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8),
+      0 0 10px rgba(255, 255, 255, 0.6);
+  }
+  50% {
+    text-shadow: 0 0 20px rgba(255, 255, 0, 1), 0 0 30px rgba(255, 255, 0, 0.7);
+  }
+  100% {
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8),
+      0 0 10px rgba(255, 255, 255, 0.6);
+  }
+}
+
+h1 a {
+  animation: sparkle 1.5s infinite;
+}
+
+video {
+  width: 650px;
+  max-width: 100%;
+}
