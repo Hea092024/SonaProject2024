@@ -142,3 +142,7 @@ div {
   min-height: 500px;
   margin: 20px;
 }
+
+figure {
+  width: 300px;
+}
