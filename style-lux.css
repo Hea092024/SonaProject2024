@@ -13,3 +13,8 @@ html {
     scroll-behavior: auto;
   }
 }
+
+body {
+  min-height: 100svh;
+  font-family: "Agdasima", sans-serif;
+}
