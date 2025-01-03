@@ -64,3 +64,11 @@ h1 {
   background-image: url(./lux/lux2.jpg);
   background-position: center;
 }
+
+h2 {
+  padding: 20px;
+  background-color: hsla(57, 96%, 9%, 65%);
+  color: antiquewhite;
+  border-radius: 10px;
+  letter-spacing: 3px;
+}
