@@ -116,3 +116,12 @@ ul {
   list-style: none;
   column-gap: 20px;
 }
+
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray;
+}
