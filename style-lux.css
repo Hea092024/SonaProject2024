@@ -59,3 +59,8 @@ h1 {
   border-radius: 10px;
   letter-spacing: 3px;
 }
+
+#second {
+  background-image: url(./assets/Sona2.jpg);
+  background-position: center;
+}
